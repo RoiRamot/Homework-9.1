@@ -1,0 +1,9 @@
+C:\projects\קורס .net\5.1\Shapes\ShapesLibs\bin\Debug\ShapesLibs.dll
+C:\projects\קורס .net\5.1\Shapes\ShapesLibs\bin\Debug\ShapesLibs.pdb
+C:\projects\קורס .net\5.1\Shapes\ShapesLibs\obj\Debug\ShapesLibs.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\5.1\Shapes\ShapesLibs\obj\Debug\ShapesLibs.dll
+C:\projects\קורס .net\5.1\Shapes\ShapesLibs\obj\Debug\ShapesLibs.pdb
+C:\projects\קורס .net\9.1\Shapes\ShapesLibs\bin\Debug\ShapesLibs.dll
+C:\projects\קורס .net\9.1\Shapes\ShapesLibs\bin\Debug\ShapesLibs.pdb
+C:\projects\קורס .net\9.1\Shapes\ShapesLibs\obj\Debug\ShapesLibs.dll
+C:\projects\קורס .net\9.1\Shapes\ShapesLibs\obj\Debug\ShapesLibs.pdb

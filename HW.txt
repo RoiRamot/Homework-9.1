@@ -1,0 +1,1 @@
+1. since i moved the DLL the refrence are broken and the exe file cannot find the dll file 

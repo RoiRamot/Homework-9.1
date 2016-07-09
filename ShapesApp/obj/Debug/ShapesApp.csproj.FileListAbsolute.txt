@@ -1,0 +1,16 @@
+C:\projects\קורס .net\5.1\Shapes\ShapesApp\bin\Debug\ShapesApp.exe.config
+C:\projects\קורס .net\5.1\Shapes\ShapesApp\bin\Debug\ShapesApp.exe
+C:\projects\קורס .net\5.1\Shapes\ShapesApp\bin\Debug\ShapesApp.pdb
+C:\projects\קורס .net\5.1\Shapes\ShapesApp\bin\Debug\ShapesLibs.dll
+C:\projects\קורס .net\5.1\Shapes\ShapesApp\bin\Debug\ShapesLibs.pdb
+C:\projects\קורס .net\5.1\Shapes\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\5.1\Shapes\ShapesApp\obj\Debug\ShapesApp.exe
+C:\projects\קורס .net\5.1\Shapes\ShapesApp\obj\Debug\ShapesApp.pdb
+C:\projects\קורס .net\9.1\Shapes\ShapesApp\bin\Debug\ShapesApp.exe.config
+C:\projects\קורס .net\9.1\Shapes\ShapesApp\bin\Debug\ShapesApp.exe
+C:\projects\קורס .net\9.1\Shapes\ShapesApp\bin\Debug\ShapesApp.pdb
+C:\projects\קורס .net\9.1\Shapes\ShapesApp\bin\Debug\ShapesLibs.dll
+C:\projects\קורס .net\9.1\Shapes\ShapesApp\bin\Debug\ShapesLibs.pdb
+C:\projects\קורס .net\9.1\Shapes\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\9.1\Shapes\ShapesApp\obj\Debug\ShapesApp.exe
+C:\projects\קורס .net\9.1\Shapes\ShapesApp\obj\Debug\ShapesApp.pdb
