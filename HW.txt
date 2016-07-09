@@ -1,1 +1,8 @@
-1. since i moved the DLL the refrence are broken and the exe file cannot find the dll file 
+Home work 9.1
+
+2. No the Applicatin did not run correctly as it did not find Shapelibs File where it was supposed to be
+3. No the Applicatin did not run correctly as it did not find Shapelibs File where it was supposed to be. 
+   changing the folder name would not help since the application expects the file to be in the same folder as the ShapeApp.exe file
+12. when using probing we give the Application a path to the Rest of the files it iss looking for. because of that moving the file to 
+    bin directory works since the application now looks for this directory 
+    under the project main directory
